@@ -1,1 +1,1 @@
-# web-tech-landing-page
+task 2 landing page by codsoft
